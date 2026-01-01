@@ -1,0 +1,11 @@
+[project]
+name = "ml-guided-quantum-coarsening"
+version = "0.1.0"
+description = "ML-guided graph coarsening for hybrid classical–quantum optimization (MaxCut / QUBO)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
