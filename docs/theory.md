@@ -21,4 +21,3 @@ This document summarizes the theoretical motivation behind ML-guided graph coars
 ## References
 - Safro et al., multilevel optimization literature
 - Farhi et al., QAOA
-- Hybrid quantum–classical optimization surveys
